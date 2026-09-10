@@ -41,8 +41,28 @@ matplotlib
 numpy
 notebook
 
+To install on your own computer, use [pixi](https://pixi.sh/latest/) package manager.
+
+Using the provided pixi.toml file:
+
+$ pip install 
+
+Or from scratch:
+
+(on your folder project)
+$ pixi init 
+$ pixi add python=3.14 cobra matplotlib numpy notebook
+
+and finally include steadiercom in the created pixi.toml file by adding:
+
+[pypi-dependencies]
+steadiercom = ">=0.1.5,<0.2"
+
+To activate the environment and launch the notebook:
+$ pixi run jupyter notebook
+
 # Usage 
-You will find everything you need for these practical exercises under the /notebooks folder. Each tutorial is uploaded as .html, .md, .tex, and .ipynb files. As you carry out the exercises using the the python notebooks, you will find the original text and results in the html, markdown, and latex files.
+You will find everything you need for these practical exercises under the /Scripts/notebooks folder. Each tutorial is uploaded as .html, .md, .tex, and .ipynb files. As you carry out the exercises using the the python notebooks, you will find the original text and results in the html, markdown, and latex files.
 
 # Running locally
 
