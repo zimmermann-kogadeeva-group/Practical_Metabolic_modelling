@@ -10,21 +10,29 @@ species and the algae. To simulate growth of the community and assess the microb
 
 # Learning outcomes
 
-### Exercise 1"
+### Exercise 1
 
-  **1.1** Import the models of selected bacterial strains and algae",
-  **1.2** Inspect the model (metabolites, reactions, genes)",
-  **1.3** Run Flux Balance analysis (FBA) to simulate growth",
-  **1.4** Inspect the metabolites that are being consumed and produced",
-  **1.5** Modify medium conditions in your model and assess the differences in growth and production",
+**1.1** Import the models of selected bacterial strains and algae
 
-## Exercise 2
-  **2.1** Simulate growth of a microbial community
-  **2.2** Inspect cross-feeding metabolites between species
-  **2.3** Inspect consumption and production of metabolites in a community
+**1.2** Inspect the model (metabolites, reactions, genes)
+
+**1.3** Run Flux Balance analysis (FBA) to simulate growth
+
+**1.4** Inspect the metabolites that are being consumed and produced
+
+**1.5** Modify medium conditions in your model and assess the differences in growth and production
+
+### Exercise 2
+
+**2.1** Simulate growth of a microbial community
+
+**2.2** Inspect cross-feeding metabolites between species
+
+**2.3** Inspect consumption and production of metabolites in a community
 
 
 # Software requirements
+
 The following packages will already be installed on the provided machines:
 python
 cobrapy
@@ -44,7 +52,7 @@ $ git clone https://git.embl.org/grp-zimmermann-kogadeeva/Practical_Metabolic_mo
 
 Navigate into cloned repo folder:
 
-$ cd Practical_Metabolic_modelling
+$ cd Practical_Metabolic_modelling/Scripts
 Launch interactive jupyter notebook session:
 
 $ jupyter notebook
