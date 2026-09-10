@@ -4,23 +4,24 @@
 
 This repository contains the training materials for the computational practical 7 of the EMBO Practical Course: Metabolite and species dynamics
 in microbial communities 2026. 
-This practical aims to implement constrained-based metabolic modeling to predict the microbial interactions between the 
+This practical aims to implement constrained-based metabolic modeling to predict the microbial interactions between
 the bacterial species and the algae in a community. For that, we use genome-scale metabolic models of selected bacterial
 species and the algae. To simulate growth of the community and assess the microbial interactions, we used Flux Balance analysis.
 
 # Learning outcomes
 
-## Exercise 1
-1.1 Import the models of selected bacterial strains and algae
-1.2 Inspect the model (metabolites, reactions, genes)
-1.3 Run Flux Balance analysis (FBA) to simulate growth
-1.3 Inspect the metabolites that are being consumed and produced 
-1.4 Modify medium conditions in your model and assess the differences in growth and production
+### Exercise 1"
+
+  **1.1** Import the models of selected bacterial strains and algae",
+  **1.2** Inspect the model (metabolites, reactions, genes)",
+  **1.3** Run Flux Balance analysis (FBA) to simulate growth",
+  **1.4** Inspect the metabolites that are being consumed and produced",
+  **1.5** Modify medium conditions in your model and assess the differences in growth and production",
 
 ## Exercise 2
-2.1 Simulate growth of a microbial community
-2.2 Inspect cross-feeding metabolites between species
-2.3 Inspect consumption and production of metabolites in a community
+  **2.1** Simulate growth of a microbial community
+  **2.2** Inspect cross-feeding metabolites between species
+  **2.3** Inspect consumption and production of metabolites in a community
 
 
 # Software requirements
