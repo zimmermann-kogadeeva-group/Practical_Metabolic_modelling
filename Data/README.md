@@ -1,16 +1,7 @@
 
 # Data
 
-This README is for description of the data used in this project.
-
-You can note what files or whole folders are used, when they were generated and how as follows:
-- `Transcriptomics/Exp1/`
-    - Transcriptomics data from experiment ...
-    - Generated on 09/04/2025
-    - Used for ...
-or for a single file:
-- `Genomes/b_uniformis_ATCC8492.gff`
-    - Genome for B. uniformis strain ATCC8492 in GFF format
-    - Downloaded on 09/04/2025
-    - Used to run BLAST on sequencing data
-
+Genome-scale metabolic models (GEMs) of some of the species involved in the algae - bacterial community. 
+Models were automatically constructed using CarveMe (https://github.com/cdanielmachado/carveme) with GapFilling option using
+an artificial marine medium. 
+The chaetoceros model (algae) was constructed using CarveMe and PhotoEukstein (https://www.biorxiv.org/content/10.1101/2023.05.22.541783v1).   
