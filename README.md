@@ -1,4 +1,4 @@
-# EMBOMicroCom: Metabolite and species dynamics in microbial communities - EMBO Practical Course
+# EMBOMicroCom: Metabolite and species dynamics in microbial communities
 
 # Computational Practical 7: Metabolic modelling of community interactions
 
