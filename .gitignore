@@ -1,0 +1,7 @@
+
+*.sif
+*.DS_Store
+*.swp
+
+.snakemake/
+.ipynb_checkpoints/

@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+# Copy/link this script to .git/hooks with (ln -s ../../.pre-commit .git/hooks/pre-commit)
+
+[ -f pixi.toml ] && git add pixi.toml
+[ -f pixi.lock ] && git add pixi.lock
+
+# Check if any .Rproj file exists in the current directory
+if ls *.Rproj 1> /dev/null 2>&1; then
+    echo "Found .Rproj file. Running renv::snapshot"
+    R --no-echo -e "renv::snapshot(type='all')"
+    git add renv.lock renv/
+else
+    echo "No .Rproj file found in the current directory."
+fi
