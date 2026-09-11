@@ -14,7 +14,7 @@ species and the algae. To simulate growth of the community and assess the microb
 
 **1.1** Read the models of selected bacterial strains and algae
 
-**1.2** Inspect the model -metabolites, reactions, genes
+**1.2** Inspect the model -metabolites, reactions, genes and compartments
 
 **1.3** Run Flux Balance analysis (FBA) to simulate growth
 
@@ -22,11 +22,12 @@ species and the algae. To simulate growth of the community and assess the microb
 
 ### Exercise 2
 
-**2.1** Simulate growth of a microbial community
+**2.1** Simulate growth of the algae-bacterial community and inspect metabolite dynamics
 
-**2.2** Inspect cross-feeding metabolites between species
+**2.2** Simulate growth of the community under specified relative species abundances
 
-**2.3** Inspect consumption and production of metabolites in a community
+**2.3** Simulate growth of the community under a specified medium
+
 
 
 # Software requirements
