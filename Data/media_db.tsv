@@ -1,0 +1,306 @@
+medium	description	compound	name
+auto	functional_analyses	avite1	alpha-Tocopherol [vitE]
+auto	functional_analyses	biotin	biotin
+auto	functional_analyses	bvite	Beta-Tocopherol [vitE]
+auto	functional_analyses	cbl1	cobalamin[vitB12]
+auto	functional_analyses	cl	Cl-
+auto	functional_analyses	co2	carbon dioxyde
+auto	functional_analyses	cobalt2	cobalt
+auto	functional_analyses	cro4	chromate
+auto	functional_analyses	f	fluoride
+auto	functional_analyses	fe2	Fe2+
+auto	functional_analyses	fe3	Fe3+
+auto	functional_analyses	Fe3-siderophores	a siderophore-bound Fe(III)
+auto	functional_analyses	h	H+
+auto	functional_analyses	h2	dihydrogene
+auto	functional_analyses	h2o	water
+auto	functional_analyses	hco3	bicarbonate
+auto	functional_analyses	mg2	Mg2+
+auto	functional_analyses	mobd	Molybdate
+auto	functional_analyses	nh4	NH4+
+auto	functional_analyses	ni2	nickel
+auto	functional_analyses	no2	NO2-
+auto	functional_analyses	no3	NO3-
+auto	functional_analyses	photon	Light
+auto	functional_analyses	pi	Phosphate
+auto	functional_analyses	pydxn	pyridoxine[vitB6]
+auto	functional_analyses	ribflv	riboflavin[vitB2]
+auto	functional_analyses	sel	selenate
+auto	functional_analyses	seln	selenide
+auto	functional_analyses	selt	selenite
+auto	functional_analyses	hso3	SO3
+auto	functional_analyses	so4	SO42-
+auto	functional_analyses	thm	thiamin[vitB1]
+auto	functional_analyses	urea	Urea
+chlamy	chlamy_ref	co2	carbon dioxyde
+chlamy	chlamy_ref	h2o	water
+chlamy	chlamy_ref	mg2	Mg2+
+chlamy	chlamy_ref	nh4	NH4+
+chlamy	chlamy_ref	no3	NO3-
+chlamy	chlamy_ref	o2	dioxygene
+chlamy	chlamy_ref	photon	photon
+chlamy	chlamy_ref	pi	Phosphate
+chlamy	chlamy_ref	so4	SO42-
+chlorella	chlorella_ref	co2	co2
+chlorella	chlorella_ref	h2o	water
+chlorella	chlorella_ref	mg2	magnesium
+chlorella	chlorella_ref	nh4	NH4+
+chlorella	chlorella_ref	no3	NO3-
+chlorella	chlorella_ref	o2	dioxygen
+chlorella	chlorella_ref	photon	photon
+chlorella	chlorella_ref	pi	phosphate
+chlorella	chlorella_ref	so4	SO42-
+CP	photeukstein	co2	carbon dioxyde
+CP	photeukstein	h2o	water
+CP	photeukstein	mg2	Mg2+
+CP	photeukstein	nh4	NH4+
+CP	photeukstein	o2	dioxygen
+CP	photeukstein	photon	photon
+CP	photeukstein	pi	Phosphate
+CP	photeukstein	so4	SO42-
+LB	LysogenyÂ broth	adn	Adenosine
+LB	LysogenyÂ broth	ala__L	L-Alanine
+LB	LysogenyÂ broth	amp	AMP
+LB	LysogenyÂ broth	arg__L	L-Arginine
+LB	LysogenyÂ broth	aso3	ArseniteÂ 
+LB	LysogenyÂ broth	asp__L	L-Aspartate
+LB	LysogenyÂ broth	ca2	Ca2+
+LB	LysogenyÂ broth	cbl1	Vitamin B12
+LB	LysogenyÂ broth	cd2	CadmiumÂ 
+LB	LysogenyÂ broth	cl	Cl-
+LB	LysogenyÂ broth	cmp	CMP
+LB	LysogenyÂ broth	cobalt2	Co2+
+LB	LysogenyÂ broth	cro4	ChromateÂ 
+LB	LysogenyÂ broth	cu2	Cu2+
+LB	LysogenyÂ broth	cys__L	L-Cysteine
+LB	LysogenyÂ broth	dad_2	DeoxyadenosineÂ 
+LB	LysogenyÂ broth	dcyt	Deoxycytidine
+LB	LysogenyÂ broth	fe2	Fe2+
+LB	LysogenyÂ broth	fe3	Fe3+
+LB	LysogenyÂ broth	fol	Folate
+LB	LysogenyÂ broth	glc__D	D-Glucose
+LB	LysogenyÂ broth	glu__L	L-Glutamate
+LB	LysogenyÂ broth	gly	Glycine
+LB	LysogenyÂ broth	gmp	GMP
+LB	LysogenyÂ broth	gsn	Guanosine
+LB	LysogenyÂ broth	h	H+
+LB	LysogenyÂ broth	h2o	H2O
+LB	LysogenyÂ broth	h2s	Hydrogen sulfide
+LB	LysogenyÂ broth	hg2	Hg2+Â 
+LB	LysogenyÂ broth	his__L	L-Histidine
+LB	LysogenyÂ broth	hxan	Hypoxanthine
+LB	LysogenyÂ broth	ile__L	L-Isoleucine
+LB	LysogenyÂ broth	ins	Inosine
+LB	LysogenyÂ broth	k	K+
+LB	LysogenyÂ broth	leu__L	L-Leucine
+LB	LysogenyÂ broth	lipoate	Lipoate
+LB	LysogenyÂ broth	lys__L	L-Lysine
+LB	LysogenyÂ broth	met__L	L-Methionine
+LB	LysogenyÂ broth	mg2	Mg
+LB	LysogenyÂ broth	mn2	Mn2+
+LB	LysogenyÂ broth	mobd	Molybdate
+LB	LysogenyÂ broth	na1	Na+
+LB	LysogenyÂ broth	nac	Isonicotinic acid
+LB	LysogenyÂ broth	nh4	Ammonium
+LB	LysogenyÂ broth	ni2	Ni2+
+LB	LysogenyÂ broth	o2	O2
+LB	LysogenyÂ broth	phe__L	L-Phenylalanine
+LB	LysogenyÂ broth	pheme	Protoheme
+LB	LysogenyÂ broth	pi	Phosphate
+LB	LysogenyÂ broth	pnto__R	PAN
+LB	LysogenyÂ broth	pro__L	L-Proline
+LB	LysogenyÂ broth	pydx	Pyridoxal
+LB	LysogenyÂ broth	ribflv	Riboflavin
+LB	LysogenyÂ broth	ser__L	L-Serine
+LB	LysogenyÂ broth	so4	Sulfate
+LB	LysogenyÂ broth	thm	Thiamin
+LB	LysogenyÂ broth	thr__L	L-Threonine
+LB	LysogenyÂ broth	thymd	Thymidine
+LB	LysogenyÂ broth	trp__L	L-Tryptophan
+LB	LysogenyÂ broth	tyr__L	L-Tyrosine
+LB	LysogenyÂ broth	ump	UMP
+LB	LysogenyÂ broth	ura	Uracil
+LB	LysogenyÂ broth	uri	Uridine
+LB	LysogenyÂ broth	val__L	L-Valine
+LB	LysogenyÂ broth	zn2	Zn2+
+LB[-O2]	LysogenyÂ broth (anaerobic)	adn	Adenosine
+LB[-O2]	LysogenyÂ broth (anaerobic)	ala__L	L-Alanine
+LB[-O2]	LysogenyÂ broth (anaerobic)	amp	AMP
+LB[-O2]	LysogenyÂ broth (anaerobic)	arg__L	L-Arginine
+LB[-O2]	LysogenyÂ broth (anaerobic)	aso3	ArseniteÂ 
+LB[-O2]	LysogenyÂ broth (anaerobic)	asp__L	L-Aspartate
+LB[-O2]	LysogenyÂ broth (anaerobic)	ca2	Ca2+
+LB[-O2]	LysogenyÂ broth (anaerobic)	cbl1	Vitamin B12
+LB[-O2]	LysogenyÂ broth (anaerobic)	cd2	CadmiumÂ 
+LB[-O2]	LysogenyÂ broth (anaerobic)	cl	Cl-
+LB[-O2]	LysogenyÂ broth (anaerobic)	cmp	CMP
+LB[-O2]	LysogenyÂ broth (anaerobic)	cobalt2	Co2+
+LB[-O2]	LysogenyÂ broth (anaerobic)	cro4	ChromateÂ 
+LB[-O2]	LysogenyÂ broth (anaerobic)	cu2	Cu2+
+LB[-O2]	LysogenyÂ broth (anaerobic)	cys__L	L-Cysteine
+LB[-O2]	LysogenyÂ broth (anaerobic)	dad_2	DeoxyadenosineÂ 
+LB[-O2]	LysogenyÂ broth (anaerobic)	dcyt	Deoxycytidine
+LB[-O2]	LysogenyÂ broth (anaerobic)	fe2	Fe2+
+LB[-O2]	LysogenyÂ broth (anaerobic)	fe3	Fe3+
+LB[-O2]	LysogenyÂ broth (anaerobic)	fol	Folate
+LB[-O2]	LysogenyÂ broth (anaerobic)	glc__D	D-Glucose
+LB[-O2]	LysogenyÂ broth (anaerobic)	glu__L	L-Glutamate
+LB[-O2]	LysogenyÂ broth (anaerobic)	gly	Glycine
+LB[-O2]	LysogenyÂ broth (anaerobic)	gmp	GMP
+LB[-O2]	LysogenyÂ broth (anaerobic)	gsn	Guanosine
+LB[-O2]	LysogenyÂ broth (anaerobic)	h	H+
+LB[-O2]	LysogenyÂ broth (anaerobic)	h2o	H2O
+LB[-O2]	LysogenyÂ broth (anaerobic)	h2s	Hydrogen sulfide
+LB[-O2]	LysogenyÂ broth (anaerobic)	hg2	Hg2+Â 
+LB[-O2]	LysogenyÂ broth (anaerobic)	his__L	L-Histidine
+LB[-O2]	LysogenyÂ broth (anaerobic)	hxan	Hypoxanthine
+LB[-O2]	LysogenyÂ broth (anaerobic)	ile__L	L-Isoleucine
+LB[-O2]	LysogenyÂ broth (anaerobic)	ins	Inosine
+LB[-O2]	LysogenyÂ broth (anaerobic)	k	K+
+LB[-O2]	LysogenyÂ broth (anaerobic)	leu__L	L-Leucine
+LB[-O2]	LysogenyÂ broth (anaerobic)	lipoate	Lipoate
+LB[-O2]	LysogenyÂ broth (anaerobic)	lys__L	L-Lysine
+LB[-O2]	LysogenyÂ broth (anaerobic)	met__L	L-Methionine
+LB[-O2]	LysogenyÂ broth (anaerobic)	mg2	Mg
+LB[-O2]	LysogenyÂ broth (anaerobic)	mn2	Mn2+
+LB[-O2]	LysogenyÂ broth (anaerobic)	mobd	Molybdate
+LB[-O2]	LysogenyÂ broth (anaerobic)	na1	Na+
+LB[-O2]	LysogenyÂ broth (anaerobic)	nac	Isonicotinic acid
+LB[-O2]	LysogenyÂ broth (anaerobic)	nh4	Ammonium
+LB[-O2]	LysogenyÂ broth (anaerobic)	ni2	Ni2+
+LB[-O2]	LysogenyÂ broth (anaerobic)	phe__L	L-Phenylalanine
+LB[-O2]	LysogenyÂ broth (anaerobic)	pheme	Protoheme
+LB[-O2]	LysogenyÂ broth (anaerobic)	pi	Phosphate
+LB[-O2]	LysogenyÂ broth (anaerobic)	pnto__R	PAN
+LB[-O2]	LysogenyÂ broth (anaerobic)	pro__L	L-Proline
+LB[-O2]	LysogenyÂ broth (anaerobic)	pydx	Pyridoxal
+LB[-O2]	LysogenyÂ broth (anaerobic)	ribflv	Riboflavin
+LB[-O2]	LysogenyÂ broth (anaerobic)	ser__L	L-Serine
+LB[-O2]	LysogenyÂ broth (anaerobic)	so4	Sulfate
+LB[-O2]	LysogenyÂ broth (anaerobic)	thm	Thiamin
+LB[-O2]	LysogenyÂ broth (anaerobic)	thr__L	L-Threonine
+LB[-O2]	LysogenyÂ broth (anaerobic)	thymd	Thymidine
+LB[-O2]	LysogenyÂ broth (anaerobic)	trp__L	L-Tryptophan
+LB[-O2]	LysogenyÂ broth (anaerobic)	tyr__L	L-Tyrosine
+LB[-O2]	LysogenyÂ broth (anaerobic)	ump	UMP
+LB[-O2]	LysogenyÂ broth (anaerobic)	ura	Uracil
+LB[-O2]	LysogenyÂ broth (anaerobic)	uri	Uridine
+LB[-O2]	LysogenyÂ broth (anaerobic)	val__L	L-Valine
+LB[-O2]	LysogenyÂ broth (anaerobic)	zn2	Zn2+
+M9	M9 minimal medium	ca2	Ca2+
+M9	M9 minimal medium	cl	Cl-
+M9	M9 minimal medium	cobalt2	Co2+
+M9	M9 minimal medium	cu2	Cu2+
+M9	M9 minimal medium	fe2	Fe2+
+M9	M9 minimal medium	fe3	Fe3+
+M9	M9 minimal medium	glc__D	D-Glucose
+M9	M9 minimal medium	h	H+
+M9	M9 minimal medium	h2o	H2O
+M9	M9 minimal medium	k	K+
+M9	M9 minimal medium	mg2	Mg
+M9	M9 minimal medium	mn2	Mn2+
+M9	M9 minimal medium	mobd	Molybdate
+M9	M9 minimal medium	na1	Na+
+M9	M9 minimal medium	nh4	Ammonium
+M9	M9 minimal medium	ni2	Ni2+
+M9	M9 minimal medium	o2	O2
+M9	M9 minimal medium	pi	Phosphate
+M9	M9 minimal medium	so4	Sulfate
+M9	M9 minimal medium	zn2	Zn2+
+M9[-O2]	M9 minimal medium (anaerobic)	ca2	Ca2+
+M9[-O2]	M9 minimal medium (anaerobic)	cl	Cl-
+M9[-O2]	M9 minimal medium (anaerobic)	cobalt2	Co2+
+M9[-O2]	M9 minimal medium (anaerobic)	cu2	Cu2+
+M9[-O2]	M9 minimal medium (anaerobic)	fe2	Fe2+
+M9[-O2]	M9 minimal medium (anaerobic)	fe3	Fe3+
+M9[-O2]	M9 minimal medium (anaerobic)	glc__D	D-Glucose
+M9[-O2]	M9 minimal medium (anaerobic)	h	H+
+M9[-O2]	M9 minimal medium (anaerobic)	h2o	H2O
+M9[-O2]	M9 minimal medium (anaerobic)	k	K+
+M9[-O2]	M9 minimal medium (anaerobic)	mg2	Mg
+M9[-O2]	M9 minimal medium (anaerobic)	mn2	Mn2+
+M9[-O2]	M9 minimal medium (anaerobic)	mobd	Molybdate
+M9[-O2]	M9 minimal medium (anaerobic)	na1	Na+
+M9[-O2]	M9 minimal medium (anaerobic)	nh4	Ammonium
+M9[-O2]	M9 minimal medium (anaerobic)	ni2	Ni2+
+M9[-O2]	M9 minimal medium (anaerobic)	pi	Phosphate
+M9[-O2]	M9 minimal medium (anaerobic)	so4	Sulfate
+M9[-O2]	M9 minimal medium (anaerobic)	zn2	Zn2+
+M9[glyc]	M9 minimal medium (glycerol)	ca2	Ca2+
+M9[glyc]	M9 minimal medium (glycerol)	cl	Cl-
+M9[glyc]	M9 minimal medium (glycerol)	cobalt2	Co2+
+M9[glyc]	M9 minimal medium (glycerol)	cu2	Cu2+
+M9[glyc]	M9 minimal medium (glycerol)	fe2	Fe2+
+M9[glyc]	M9 minimal medium (glycerol)	fe3	Fe3+
+M9[glyc]	M9 minimal medium (glycerol)	glyc	Glycerol
+M9[glyc]	M9 minimal medium (glycerol)	h	H+
+M9[glyc]	M9 minimal medium (glycerol)	h2o	H2O
+M9[glyc]	M9 minimal medium (glycerol)	k	K+
+M9[glyc]	M9 minimal medium (glycerol)	mg2	Mg
+M9[glyc]	M9 minimal medium (glycerol)	mn2	Mn2+
+M9[glyc]	M9 minimal medium (glycerol)	mobd	Molybdate
+M9[glyc]	M9 minimal medium (glycerol)	na1	Na+
+M9[glyc]	M9 minimal medium (glycerol)	nh4	Ammonium
+M9[glyc]	M9 minimal medium (glycerol)	ni2	Ni2+
+M9[glyc]	M9 minimal medium (glycerol)	o2	O2
+M9[glyc]	M9 minimal medium (glycerol)	pi	Phosphate
+M9[glyc]	M9 minimal medium (glycerol)	so4	Sulfate
+M9[glyc]	M9 minimal medium (glycerol)	zn2	Zn2+
+okamu	okamu_ref	co2	Co2+
+okamu	okamu_ref	Cytochromes__45__C__45__Oxidized	cytoOx
+okamu	okamu_ref	Cytochromes__45__C__45__Reduced	cytoOx
+okamu	okamu_ref	fe3	Fe3+
+okamu	okamu_ref	h	H
+okamu	okamu_ref	h2o	water
+okamu	okamu_ref	nh4	NH4+
+okamu	okamu_ref	no3	NO3-
+okamu	okamu_ref	o2	O2
+okamu	okamu_ref	photon	photon
+okamu	okamu_ref	so4	SO42-
+okamu	okamu_ref	trp__L	tryptophane
+okamu	okamu_ref	tyr__L	tyrosine
+pelago	pelago_culture	biotin	biotin
+pelago	pelago_culture	cbl1	Vitamin B12
+pelago	pelago_culture	cl	Cl-
+pelago	pelago_culture	co2	carbon dioxyde
+pelago	pelago_culture	cobalt2	Co2+
+pelago	pelago_culture	cro4	Chromate
+pelago	pelago_culture	fe2	Fe2+
+pelago	pelago_culture	h2o	water
+pelago	pelago_culture	hco3	bicarbonate
+pelago	pelago_culture	mg2	Mg2+
+pelago	pelago_culture	mobd	Molybdate
+pelago	pelago_culture	nh4	NH4+
+pelago	pelago_culture	ni2	Ni2+
+pelago	pelago_culture	no2	NO2-
+pelago	pelago_culture	no3	NO3-
+pelago	pelago_culture	o2	dioxygene
+pelago	pelago_culture	photon	photon
+pelago	pelago_culture	pi	Phosphate
+pelago	pelago_culture	so4	SO42-
+pelago	pelago_culture	thm	Thiamin
+phaeo	phaeo_ref	co2	carbon dioxyde
+phaeo	phaeo_ref	fe2	Fe2+
+phaeo	phaeo_ref	h2o	water
+phaeo	phaeo_ref	hco3	bicarbonate
+phaeo	phaeo_ref	mg2	Mg2+
+phaeo	phaeo_ref	na1	Na+
+phaeo	phaeo_ref	nh4	NH4+
+phaeo	phaeo_ref	no2	NO2-
+phaeo	phaeo_ref	no3	NO3-
+phaeo	phaeo_ref	o2	dioxygene
+phaeo	phaeo_ref	photon	photon
+phaeo	phaeo_ref	pi	Phosphate
+phaeo	phaeo_ref	so4	SO42-
+pisces	pisces_photototrophe	co2	carbon dioxyde
+pisces	pisces_photototrophe	fe2	Fe2+
+pisces	pisces_photototrophe	h2o	water
+pisces	pisces_photototrophe	hco3	bicarbonate
+pisces	pisces_photototrophe	mg2	Mg2+
+pisces	pisces_photototrophe	nh4	NH4+
+pisces	pisces_photototrophe	no3	NO3-
+pisces	pisces_photototrophe	photon	photon
+pisces	pisces_photototrophe	pi	Phosphate
+pisces	pisces_photototrophe	so4	SO42-
+pisces	pisces_photototrophe	h	proton
+pisces	pisces_photototrophe	fe3	Fe3+
