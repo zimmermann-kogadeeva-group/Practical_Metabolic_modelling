@@ -12,15 +12,13 @@ species and the algae. To simulate growth of the community and assess the microb
 
 ### Exercise 1
 
-**1.1** Import the models of selected bacterial strains and algae
+**1.1** Read the models of selected bacterial strains and algae
 
-**1.2** Inspect the model (metabolites, reactions, genes)
+**1.2** Inspect the model -metabolites, reactions, genes
 
 **1.3** Run Flux Balance analysis (FBA) to simulate growth
 
-**1.4** Inspect the metabolites that are being consumed and produced
-
-**1.5** Modify medium conditions in your model and assess the differences in growth and production
+**1.4** Modify medium conditions in your model and assess the differences in growth and production
 
 ### Exercise 2
 
@@ -51,14 +49,16 @@ Or from scratch:
 
 (on your folder project)
 $ pixi init 
-$ pixi add python=3.14 cobra matplotlib numpy notebook
+$ pixi add python=3.14 cobra matplotlib numpy 
+$ pixi add ipykernel pip
 
-and finally include steadiercom in the created pixi.toml file by adding:
+Include steadiercom in the created pixi.toml file by adding:
 
 [pypi-dependencies]
 steadiercom = ">=0.1.5,<0.2"
 
 To activate the environment and launch the notebook:
+$ pixi shell
 $ pixi run jupyter notebook
 
 # Usage 
