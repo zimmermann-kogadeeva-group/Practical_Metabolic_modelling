@@ -3,6 +3,7 @@
 *.DS_Store
 *.swp
 
+.pixi/
 .snakemake/
 .ipynb_checkpoints/
 .jupyter.log
