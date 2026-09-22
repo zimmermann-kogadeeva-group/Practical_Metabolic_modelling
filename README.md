@@ -62,7 +62,7 @@ cd Practical_Metabolic_modelling/
 ```
 Launch interactive jupyter notebook session:
 ```
-jupyter-lab
+pixi run jupyter-lab
 ```
 This should launch a browser window, where you can click on the `Notebooks` folder and start the exercises.
 
