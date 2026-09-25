@@ -1,6 +1,5 @@
-# EMBOMicroCom: Metabolite and species dynamics in microbial communities
 
-# Computational Practical 7: Metabolic modelling of community interactions
+# EMBO MCD Practical Course 2026 [Metabolite and species dynamics in microbial communities](https://www.embl.org/about/info/course-and-conference-office/events/mcd26-01/) <br /> Practical 7: Metabolic modelling of community interactions
 
 This repository contains the training materials for the computational practical 7 of the EMBO Practical Course: Metabolite and species dynamics
 in microbial communities 2026. 
