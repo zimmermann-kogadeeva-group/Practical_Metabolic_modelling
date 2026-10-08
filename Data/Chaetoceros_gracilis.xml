@@ -13131,7 +13131,7 @@
           </html>
         </notes>
       </species>
-      <species metaid="M__2__45__AMINOMALONATE__45__SEMIALDEHYDE_c" id="M__2__45__AMINOMALONATE__45__SEMIALDEHYDE_c" name="2-aminomalonate semialdehyde" compartment="c" boundaryCondition="false" constant="false" hasOnlySubstanceUnits="true" fbc:charge="0" fbc:chemicalFormula="C3H5NO3">
+      <species metaid="M_2_45_AMINOMALONATE_45_SEMIALDEHYDE_c" id="M_2_45_AMINOMALONATE_45_SEMIALDEHYDE_c" name="2-aminomalonate semialdehyde" compartment="c" boundaryCondition="false" constant="false" hasOnlySubstanceUnits="true" fbc:charge="0" fbc:chemicalFormula="C3H5NO3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H5NO3</p>
@@ -92646,7 +92646,7 @@
           <speciesReference species="M_ppi_c" stoichiometry="2" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction metaid="R__1__46__2__46__1__46__27__45__RXN" id="R__1__46__2__46__1__46__27__45__RXN" name="1.2.1.27-RXN" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="R_1_46_2_46_1_46_27_45_RXN" id="R_1_46_2_46_1_46_27_45_RXN" name="1.2.1.27-RXN" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>BIOCYC: 1.2.1.27-RXN</p>
@@ -93183,7 +93183,7 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M__2__45__AMINOMALONATE__45__SEMIALDEHYDE_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_2_45_AMINOMALONATE_45_SEMIALDEHYDE_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
@@ -93274,7 +93274,7 @@
           <speciesReference species="M_ser_L_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M__2__45__AMINOMALONATE__45__SEMIALDEHYDE_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_2_45_AMINOMALONATE_45_SEMIALDEHYDE_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_nadph_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
@@ -96432,7 +96432,7 @@
           <speciesReference species="M_ala__D_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction metaid="R__3__46__5__46__5__46__1__45__RXN__45__HCN__47__WATER__47____47__FORMATE__47__AMMONIUM__46__28__46__" id="R__3__46__5__46__5__46__1__45__RXN__45__HCN__47__WATER__47____47__FORMATE__47__AMMONIUM__46__28__46__" name="3.5.5.1-RXN-HCN/WATER//FORMATE/AMMONIUM.28." reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="R_3_46_5_46_5_46_1_45_RXN_45_HCN_47_WATER_47_47_FORMATE_47_AMMONIUM_46_28_46" id="R_3_46_5_46_5_46_1_45_RXN_45_HCN_47_WATER_47_47_FORMATE_47_AMMONIUM_46_28_46" name="3.5.5.1-RXN-HCN/WATER//FORMATE/AMMONIUM.28." reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>BIOCYC: 3.5.5.1-RXN</p>
